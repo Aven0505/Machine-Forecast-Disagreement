@@ -3,7 +3,7 @@
 
 其中有一些表格的code用的语言不是stata而是python，
 
-在do文件里有注释说明（有用jupyter和Spyder）
+在do文件里有注释说明
 
 构建MFD.py文件是使用LightGBM模型跑出MFD的代码，
 
